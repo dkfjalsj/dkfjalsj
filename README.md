@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="./assets/banner.svg" alt="KIM SUHYUN · AI Service & Backend Developer" width="100%"/>
+  <img src="./assets/banner.svg" alt="Inspection Report · Kim Suhyun · QC Engineer → AI Engineer" width="100%"/>
 </p>
 
 <p align="center">
-  <a href="mailto:1228suhyun@naver.com"><img src="https://img.shields.io/badge/Email-1228suhyun%40naver.com-0b1626?style=flat-square&logo=maildotru&logoColor=5ef2d6"/></a>
-  <img src="https://img.shields.io/badge/Open%20to%20work-AI%20%C2%B7%20Backend-0b1626?style=flat-square&labelColor=0b1626&color=1ad6b0"/>
-  <img src="https://img.shields.io/badge/Based%20in-Korea-0b1626?style=flat-square&color=4aa8ff"/>
+  <a href="mailto:1228suhyun@naver.com"><img src="https://img.shields.io/badge/Email-1228suhyun%40naver.com-1f2328?style=flat-square"/></a>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20work-1f8a4c?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Focus-LLM%20%C2%B7%20Agent%20%C2%B7%20Backend-2b59c3?style=flat-square"/>
 </p>
 
 ## About Me
@@ -18,7 +18,7 @@
 - 모델이 좋아 보일 때 평가 방식부터 의심하고, AI가 실패해도 사용자 데이터는 지키는 구조를 먼저 설계합니다.
 
 <p align="center">
-  <img src="./assets/stack.svg" alt="Tech Stack" width="100%"/>
+  <img src="./assets/results.svg" alt="Test Results · 7 projects" width="100%"/>
 </p>
 
 ## Projects
@@ -77,6 +77,12 @@
 - 이미지 업로드·분류·Grad-CAM을 제공하는 Streamlit 웹앱 배포
 
 `Python` `TensorFlow` `Keras` `NumPy` `pandas` `scikit-learn` `Matplotlib` `Streamlit`
+
+## Tools
+
+<p align="center">
+  <img src="./assets/toolkit.svg" alt="Calibrated Tools" width="100%"/>
+</p>
 
 ## Contact
 
