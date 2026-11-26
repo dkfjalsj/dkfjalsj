@@ -1,11 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.svg" alt="Inspection Report · Kim Suhyun · QC Engineer → AI Engineer" width="100%"/>
-</p>
-
-<p align="center">
-  <a href="mailto:1228suhyun@naver.com"><img src="https://img.shields.io/badge/Email-1228suhyun%40naver.com-1f2328?style=flat-square"/></a>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20work-1f8a4c?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Focus-LLM%20%C2%B7%20Agent%20%C2%B7%20Backend-2b59c3?style=flat-square"/>
+  <img src="./assets/report-banner.svg" alt="Inspection Report · Kim Suhyun · QC Engineer → AI Engineer" width="100%"/>
 </p>
 
 ## About Me
