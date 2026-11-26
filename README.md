@@ -5,7 +5,7 @@
 <p align="center">📫 <a href="mailto:1228suhyun@naver.com">1228suhyun@naver.com</a></p>
 
 <p align="center">
-  <img src="./assets/about.svg" alt="About Me · AI 결과를 검증하고, 실패에 대비해 서비스로 만드는 개발자" width="100%"/>
+  <img src="./assets/about-v3.svg" alt="About Me" width="100%"/>
 </p>
 
 <p align="center">
