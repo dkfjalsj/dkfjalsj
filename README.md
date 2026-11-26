@@ -1,7 +1,25 @@
-## 안녕하세요, 김수현입니다
+<p align="center">
+  <img src="./assets/banner.svg" alt="KIM SUHYUN · AI Service & Backend Developer" width="100%"/>
+</p>
 
-AI 결과를 검증하고, 실패에 대비해 서비스로 만드는 개발자입니다.
-반도체 장비 회사에서 측정 데이터로 불량 원인을 찾던 경험을 바탕으로, AI 서비스와 백엔드를 개발하고 있습니다.
+<p align="center">
+  <a href="mailto:1228suhyun@naver.com"><img src="https://img.shields.io/badge/Email-1228suhyun%40naver.com-0b1626?style=flat-square&logo=maildotru&logoColor=5ef2d6"/></a>
+  <img src="https://img.shields.io/badge/Open%20to%20work-AI%20%C2%B7%20Backend-0b1626?style=flat-square&labelColor=0b1626&color=1ad6b0"/>
+  <img src="https://img.shields.io/badge/Based%20in-Korea-0b1626?style=flat-square&color=4aa8ff"/>
+</p>
+
+## About Me
+
+**AI 결과를 검증하고, 실패에 대비해 서비스로 만드는 개발자입니다.**
+
+- 반도체 장비 회사에서 Wafer tester 보드 불량을 측정 데이터로 진단하고, Linux 장비 환경의 반복 작업을 Python 도구로 줄이며 개발을 시작했습니다.
+- LLM 문서 처리 웹앱, 드리프트를 감지하고 재학습하는 ML 시스템, CNN 결함 분류 모델을 직접 만들어 배포했습니다.
+- 팀 프로젝트에서는 Spring Boot 백엔드·보안과 React 화면을 맡았고, 지금은 LangGraph 에이전트를 개발하고 있습니다.
+- 모델이 좋아 보일 때 평가 방식부터 의심하고, AI가 실패해도 사용자 데이터는 지키는 구조를 먼저 설계합니다.
+
+<p align="center">
+  <img src="./assets/stack.svg" alt="Tech Stack" width="100%"/>
+</p>
 
 ## Projects
 
@@ -60,16 +78,6 @@ AI 결과를 검증하고, 실패에 대비해 서비스로 만드는 개발자�
 
 `Python` `TensorFlow` `Keras` `NumPy` `pandas` `scikit-learn` `Matplotlib` `Streamlit`
 
-## Tech
-
-| 분야 | 기술 |
-|---|---|
-| AI · 데이터 | Python, LangGraph, Gemini API, PyTorch, TensorFlow/Keras, scikit-learn, pandas |
-| 백엔드 | Java, Spring Boot, Spring Security, JPA, FastAPI, Flask |
-| 데이터베이스 | PostgreSQL (pgvector), MySQL, MariaDB, Redis |
-| 프론트엔드 | React, TypeScript, Vite |
-| 운영 · 협업 | Docker, Linux, GitHub Actions, Vercel, Render, Streamlit, Git |
-
 ## Contact
 
-1228suhyun@naver.com
+📫 1228suhyun@naver.com
