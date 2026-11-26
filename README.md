@@ -9,14 +9,14 @@
 </p>
 
 <p align="center">
-  <img src="./assets/results-head.svg" alt="Test Results" width="100%"/>
-  <a href="https://github.com/dkfjalsj/Cluvelle"><img src="./assets/row-01.svg" alt="Cluvelle" width="100%"/></a>
-  <a href="https://github.com/dkfjalsj/datasheet-assistant"><img src="./assets/row-02.svg" alt="Datasheet-Assistant" width="100%"/></a>
-  <a href="https://github.com/dkfjalsj/project_mindot"><img src="./assets/row-03.svg" alt="Mindot" width="100%"/></a>
-  <a href="https://github.com/axioe/MealFit"><img src="./assets/row-04.svg" alt="MealFit" width="100%"/></a>
-  <a href="https://github.com/dkfjalsj/project_linkus"><img src="./assets/row-05.svg" alt="LinkUs" width="100%"/></a>
-  <a href="https://github.com/dkfjalsj/Gas-Sensor-Drift-Classification"><img src="./assets/row-06.svg" alt="Gas Sensor Drift" width="100%"/></a>
-  <a href="https://github.com/dkfjalsj/metal-surface-defect"><img src="./assets/row-07.svg" alt="Metal Surface Defect" width="100%"/></a>
+  <img src="./assets/results-head-v2.svg" alt="Test Results" width="100%"/>
+  <a href="https://github.com/dkfjalsj/Cluvelle"><img src="./assets/row-01-v2.svg" alt="Cluvelle" width="100%"/></a>
+  <a href="https://github.com/dkfjalsj/datasheet-assistant"><img src="./assets/row-02-v2.svg" alt="Datasheet-Assistant" width="100%"/></a>
+  <a href="https://github.com/dkfjalsj/project_mindot"><img src="./assets/row-03-v2.svg" alt="Mindot" width="100%"/></a>
+  <a href="https://github.com/axioe/MealFit"><img src="./assets/row-04-v2.svg" alt="MealFit" width="100%"/></a>
+  <a href="https://github.com/dkfjalsj/project_linkus"><img src="./assets/row-05-v2.svg" alt="LinkUs" width="100%"/></a>
+  <a href="https://github.com/dkfjalsj/Gas-Sensor-Drift-Classification"><img src="./assets/row-06-v2.svg" alt="Gas Sensor Drift" width="100%"/></a>
+  <a href="https://github.com/dkfjalsj/metal-surface-defect"><img src="./assets/row-07-v2.svg" alt="Metal Surface Defect" width="100%"/></a>
 </p>
 
 <p align="center">
